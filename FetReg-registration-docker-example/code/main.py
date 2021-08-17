@@ -1,6 +1,9 @@
 """
+Fetoscopy placental vessel segmentation and registration challenge (FetReg)
+EndoVis - FetReg2021 - MICCAI2021
+Challenge link: https://www.synapse.org/#!Synapse:syn25313156
 
-EndoVis - FetReg2021 Task 2 - Registration - Docker dummy example showing 
+Task 2 - Registration - Docker dummy example showing 
 the input and output folders and the output text file format for the submission
 
 """
