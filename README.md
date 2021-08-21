@@ -21,5 +21,10 @@ https://www.synapse.org/#!Synapse:syn25313156/wiki/609273
 
 This repository also contains script for visualising the segmentation predicted masks and mosaics obtained from frame registration. 
 
-If you have any queries, feel free to contact us on: endovis-weiss-vision@ucl.ac.uk
+
+## Docker Submission Instructions
+Follow the instructions provided in the [Docker Submission Guide](https://github.com/sophiabano/EndoVis-FetReg2021/blob/master/EndoVis-FetReg2021_submission_guide.pdf) for making a submission to the EndoVis-FetReg2021 Challenge. 
+
+
+#### If you have any queries, feel free to contact us: endovis-weiss-vision@ucl.ac.uk
 
