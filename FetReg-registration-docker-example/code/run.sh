@@ -1,4 +1,6 @@
 #!/bin/bash
-input_path = "$1"
-output_path = "$2"
-python main.py $input_path $output_path
+
+# $1 is the input path
+# $2 is the output path
+
+python main.py $1 $2
