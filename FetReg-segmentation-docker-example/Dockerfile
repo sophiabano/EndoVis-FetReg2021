@@ -11,4 +11,4 @@ COPY ./code /opt
 RUN pip install -r requirements.txt
 
 # Setting the default code to run when a container is launced with this image.
-ENTRYPOINT [ "/opt/run.sh" ]
+ENTRYPOINT [ "/bin/bash", "/opt/run.sh" ]
